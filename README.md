@@ -8,9 +8,9 @@ Nikolay Jetchev, Urs Bergmann
 # Description
 https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/
 
-[CAGAN](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN.ipynb): keras implementation of CAGAN
+**[CAGAN]**(https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN.ipynb): keras implementation of CAGAN
 
-[CAGAN_stackGANv2-256-covar-refiner-mixup](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN_stackGANv2-256-covar-refiner-mixup.ipynb): A CAGAN combines with StackGAN-v2.
+**[CAGAN_stackGANv2-256-covar-refiner-mixup]**(https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN_stackGANv2-256-covar-refiner-mixup.ipynb): A CAGAN combines with StackGAN-v2.
 
 # Requirements
 - python 3
@@ -20,6 +20,6 @@ https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in
 - TensorFlow 1.2.0
 
 # Acknowledgments
-Code borrows from [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) and [titu1994/Super-Resolution-using-Generative-Adversarial-Networks](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks/). The generative network is adopted from [CycleGAN](https://github.com/junyanz/CycleGAN) with [Instance Normalization](https://github.com/farizrahman4u/keras-contrib/blob/master/keras_contrib/layers/normalization.py).
+Code borrows from [tjwei](https://github.com/tjwei/GANotebooks) and [titu1994](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks/). The generative network is adopted from [CycleGAN](https://github.com/junyanz/CycleGAN) with [Instance Normalization](https://github.com/farizrahman4u/keras-contrib/blob/master/keras_contrib/layers/normalization.py).
 
 
