@@ -5,8 +5,8 @@
 
 # Description
 
-[CAGAN](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN.ipynb): keras implementation of CAGAN  
- [CAGAN-stackGANv2-256-covar-refiner-mixup](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN_stackGANv2-256-covar-refiner-mixup.ipynb): A CAGAN combines with StackGAN-v2.  
+- [CAGAN](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN.ipynb): keras implementation of CAGAN  
+ - [CAGAN-stackGANv2-256-covar-refiner-mixup](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN_stackGANv2-256-covar-refiner-mixup.ipynb): A CAGAN combines with StackGAN-v2.  
 
 [Result images](https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/)
 
