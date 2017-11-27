@@ -16,5 +16,5 @@
 - TensorFlow 1.2.0
 
 # Acknowledgments
-Code borrows from [tjwei](https://github.com/tjwei/GANotebooks) and [titu1994](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks/). The generative network is adopted from [CycleGAN](https://github.com/junyanz/CycleGAN) with [Instance Normalization](https://github.com/farizrahman4u/keras-contrib/blob/master/keras_contrib/layers/normalization.py).
+Code borrows from [tjwei](https://github.com/tjwei/GANotebooks) and [titu1994](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks/). The generative network is adopted from [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) with [Instance Normalization](https://github.com/farizrahman4u/keras-contrib/blob/master/keras_contrib/layers/normalization.py).
 
