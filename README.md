@@ -1,4 +1,4 @@
-# Conditional-Anology-GAN-keras
+# Conditional-Analogy-GAN-keras
 
 A keras implementation of CAGAN and its variants. 
 
