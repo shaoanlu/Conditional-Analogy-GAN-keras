@@ -11,6 +11,22 @@ A keras implementation of CAGAN and its variants.
 - [CAGAN](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN.ipynb): keras implementation of CAGAN  
  - [CAGAN-stackGANv2-256-covar-refiner-mixup](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras/blob/master/CAGAN_stackGANv2-256-covar-refiner-mixup.ipynb): A CAGAN combines with StackGAN-v2.  
 
+Hierarchy of dataset directory looks like:
+```bash
+./imgs
+  /1 
+    filename01_1.jpg
+    filename02_1.jpg
+    filename03_1.jpg
+    ...
+  /5 
+    filename01_5.jpg
+    filename02_5.jpg
+    filename03_5.jpg
+    ...
+```
+Folder `./imgs/1/` contains human images and `./imgs/5/` contains stand alone cloth images. A human/article pair should has same filename followed by `_1` and `_5` separately. 
+ Please refer to Load Iamges section in jupyter notebooks.
 
 ## Requirements
 - python 3
